@@ -26,3 +26,6 @@ build
 
 .medusa
 .vscode/
+
+# Ignore user uploaded images
+/static
